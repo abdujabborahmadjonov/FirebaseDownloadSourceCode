@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650336034833",
+    "project_id": "fir-uploadanyfile",
+    "storage_bucket": "fir-uploadanyfile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650336034833:android:463f92f706a5fbbeb891b0",
+        "android_client_info": {
+          "package_name": "dev.abdujabbor.firebaseuploadanyfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650336034833-seednvarp1oie33t1tifstl6sniubc3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGe9RvIZJczzQnJtIx47hLxd3YUDWrLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650336034833-seednvarp1oie33t1tifstl6sniubc3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
